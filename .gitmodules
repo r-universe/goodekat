@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ggResidpanel"]
-	path = ggResidpanel
-	url = https://github.com/goodekat/ggresidpanel
 [submodule "veesa"]
 	path = veesa
 	url = https://github.com/cran/veesa
