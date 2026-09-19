@@ -5,6 +5,3 @@
 [submodule "ggResidpanel"]
 	path = ggResidpanel
 	url = https://github.com/goodekat/ggresidpanel
-[submodule "veesa"]
-	path = veesa
-	url = https://github.com/cran/veesa
